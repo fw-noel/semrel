@@ -1,0 +1,29 @@
+{
+  "name": "nfqtest",
+  "version": "0.0.0-development",
+  "description": "Tester mcgoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fw-noel/nfquistest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fw-noel/nfquistest/issues"
+  },
+  "homepage": "https://github.com/fw-noel/nfquistest#readme",
+  "dependencies": {
+    "semantic-release": "17.3.9"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.3.9"
+  }
+}
