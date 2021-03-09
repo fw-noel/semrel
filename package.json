@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
-    "sr:dry": "GH_TOKEN=61715de422a30c4335fcf8eff587f421d7c3e187 semantic-release --dry-run --no-ci"
+    "sr:dry": "semantic-release --dry-run --no-ci"
   },
   "repository": {
     "type": "git",
