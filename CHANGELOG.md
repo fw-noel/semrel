@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/fw-noel/semrel/compare/v1.0.3...v2.0.0) (2021-03-09)
+
+
+### Bug Fixes
+
+* **release:** Clean up release.yml ([dac5416](https://github.com/fw-noel/semrel/commit/dac5416839c68a1e22a3916f6947c8f6f8509d57))
+
+
+### Features
+
+* **app:** Add index.js ([70c12b3](https://github.com/fw-noel/semrel/commit/70c12b3556af9177854d0d4537faddbe24c8ed0a))
+
+
+### BREAKING CHANGES
+
+* **app:** This will break existing functionality
+
 ## [1.0.3](https://github.com/fw-noel/semrel/compare/v1.0.2...v1.0.3) (2021-03-09)
 
 
