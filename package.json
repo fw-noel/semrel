@@ -1,12 +1,12 @@
 {
   "name": "nfqtest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tester mcgoo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
-    "sr:dry": "semantic-release --dry-run --no-ci"
+    "sr:dry": "GH_TOKEN=61715de422a30c4335fcf8eff587f421d7c3e187 semantic-release --dry-run --no-ci"
   },
   "repository": {
     "type": "git",
