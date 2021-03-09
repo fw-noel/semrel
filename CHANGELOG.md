@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/fw-noel/semrel/compare/v1.0.1...v1.0.2) (2021-03-09)
+
+
+### Bug Fixes
+
+* **README:** added links ([4cb04be](https://github.com/fw-noel/semrel/commit/4cb04be5678b461f8b167fa8b8d778c0b0328672))
+
 ## [1.0.1](https://github.com/fw-noel/semrel/compare/v1.0.0...v1.0.1) (2021-03-09)
 
 
