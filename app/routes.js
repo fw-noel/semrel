@@ -1,5 +1,9 @@
 // Routing here
 console.info('ROUTES!');
 if (1) {
-  return 'yes';
+  return true;
+}
+
+if (0) {
+  return false;
 }
