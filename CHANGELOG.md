@@ -1,3 +1,16 @@
+# [2.4.0](https://github.com/fw-noel/semrel/compare/v2.3.0...v2.4.0) (2021-03-12)
+
+
+### Bug Fixes
+
+* **index.js:** Add another line of debugging ([d49762f](https://github.com/fw-noel/semrel/commit/d49762ffef98b4386097b6c774a396887e49d73a))
+* **index.js:** More verbose logging ([3f221ce](https://github.com/fw-noel/semrel/commit/3f221ce5ed6ff60be8777a3c70669e50a5b69095))
+
+
+### Features
+
+* **app.js:** Adding more information to the console ([4303033](https://github.com/fw-noel/semrel/commit/43030335f2752e65e1b85db48e881be4e6751dee))
+
 # [2.3.0](https://github.com/fw-noel/semrel/compare/v2.2.0...v2.3.0) (2021-03-12)
 
 
