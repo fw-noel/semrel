@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/fw-noel/semrel/compare/v2.2.0...v2.3.0) (2021-03-12)
+
+
+### Features
+
+* **routes:** Add falsy route ([39faaed](https://github.com/fw-noel/semrel/commit/39faaed0349e92d0b20b9126c3c5d4448de148c8))
+
 # [2.2.0](https://github.com/fw-noel/semrel/compare/v2.1.1...v2.2.0) (2021-03-12)
 
 
