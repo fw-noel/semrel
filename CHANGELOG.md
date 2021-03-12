@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/fw-noel/semrel/compare/v2.1.1...v2.2.0) (2021-03-12)
+
+
+### Features
+
+* **routes:** Add a route to return positive ([97224f3](https://github.com/fw-noel/semrel/commit/97224f3834fbf41172ae91cea6f45778062265c1))
+
 ## [2.1.1](https://github.com/fw-noel/semrel/compare/v2.1.0...v2.1.1) (2021-03-12)
 
 
