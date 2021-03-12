@@ -1,2 +1,2 @@
 // Routing here
-console.info('ROUTES!')
+console.info('ROUTES!');
