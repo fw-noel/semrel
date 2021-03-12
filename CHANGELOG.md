@@ -1,3 +1,15 @@
+# [2.1.0](https://github.com/fw-noel/semrel/compare/v2.0.0...v2.1.0) (2021-03-12)
+
+
+### Bug Fixes
+
+* **index.js:** logging some details ([3d5a341](https://github.com/fw-noel/semrel/commit/3d5a341eac566715a7e71e7036ffae7cc6d6e833))
+
+
+### Features
+
+* **app.js:** Add app.js ([006b3b6](https://github.com/fw-noel/semrel/commit/006b3b69cdfec18c9f49a4740edcb012c5da0a9d))
+
 # [2.0.0](https://github.com/fw-noel/semrel/compare/v1.0.3...v2.0.0) (2021-03-09)
 
 
