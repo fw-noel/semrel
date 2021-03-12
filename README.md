@@ -10,3 +10,5 @@ https://medium.com/miq-tech-and-analytics/automating-releases-via-semantic-relea
 https://dev.to/abdelrahmanahmed/semantic-release-automation-part-2-setup-semantic-release-package-2b8j
 
 BREAKING CHANGE: Should be in the commit footer
+
+# Commit Messages r my pashion
